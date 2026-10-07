@@ -1,0 +1,2 @@
+Best parameters for 5: 
+{'n_estimators': 249, 'max_depth': 5, 'min_samples_split': 8, 'min_samples_leaf': 2, 'max_features': 4, 'random_state': 42}

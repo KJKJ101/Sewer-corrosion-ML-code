@@ -1,0 +1,2 @@
+Best parameters for 8: 
+{'n_estimators': 134, 'max_depth': 3, 'min_samples_split': 4, 'min_samples_leaf': 1, 'max_features': 4, 'random_state': 42}

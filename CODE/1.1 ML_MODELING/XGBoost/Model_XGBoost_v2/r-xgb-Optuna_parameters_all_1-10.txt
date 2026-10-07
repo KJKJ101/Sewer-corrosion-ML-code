@@ -1,0 +1,80 @@
+================================================================================
+Random split 1
+Source file: Optuna_parameters_1.txt
+================================================================================
+
+Best parameters for 1: 
+{'n_estimators': 172, 'max_depth': 10, 'learning_rate': 0.29212351035764467, 'min_child_weight': 2, 'subsample': 0.8955854747525519, 'colsample_bytree': 0.9353079138112564, 'gamma': 0.019003594561433777, 'reg_lambda': 0.5383993603467667, 'reg_alpha': 1.7527074080359817, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 2
+Source file: Optuna_parameters_2.txt
+================================================================================
+
+Best parameters for 2: 
+{'n_estimators': 51, 'max_depth': 10, 'learning_rate': 0.23457086557317708, 'min_child_weight': 9, 'subsample': 0.9561179676296793, 'colsample_bytree': 0.7548063671855237, 'gamma': 0.08388507583794598, 'reg_lambda': 1.0812463797439529, 'reg_alpha': 0.0604864900646995, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 3
+Source file: Optuna_parameters_3.txt
+================================================================================
+
+Best parameters for 3: 
+{'n_estimators': 155, 'max_depth': 10, 'learning_rate': 0.1617066641346019, 'min_child_weight': 5, 'subsample': 0.6071324935495511, 'colsample_bytree': 0.9723559343572161, 'gamma': 0.3264844949628164, 'reg_lambda': 0.5653314150488481, 'reg_alpha': 0.08401952722901601, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 4
+Source file: Optuna_parameters_4.txt
+================================================================================
+
+Best parameters for 4: 
+{'n_estimators': 268, 'max_depth': 3, 'learning_rate': 0.18324520813120382, 'min_child_weight': 2, 'subsample': 0.5460071055954782, 'colsample_bytree': 0.8159105297148131, 'gamma': 0.5567973859098391, 'reg_lambda': 0.8953311152837691, 'reg_alpha': 0.08806157423991236, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 5
+Source file: Optuna_parameters_5.txt
+================================================================================
+
+Best parameters for 5: 
+{'n_estimators': 245, 'max_depth': 3, 'learning_rate': 0.19168263848033756, 'min_child_weight': 1, 'subsample': 0.8888682612114568, 'colsample_bytree': 0.9846019527690478, 'gamma': 4.305711474708552e-05, 'reg_lambda': 1.8056126816249298, 'reg_alpha': 1.6488232512645917, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 6
+Source file: Optuna_parameters_6.txt
+================================================================================
+
+Best parameters for 6: 
+{'n_estimators': 193, 'max_depth': 4, 'learning_rate': 0.18606639794267987, 'min_child_weight': 5, 'subsample': 0.6445542318570281, 'colsample_bytree': 0.854552603739839, 'gamma': 0.031477943501381396, 'reg_lambda': 0.06562328734693676, 'reg_alpha': 1.5715618751097564, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 7
+Source file: Optuna_parameters_7.txt
+================================================================================
+
+Best parameters for 7: 
+{'n_estimators': 126, 'max_depth': 5, 'learning_rate': 0.28393409134104886, 'min_child_weight': 4, 'subsample': 0.6655215782642181, 'colsample_bytree': 0.9714182387477561, 'gamma': 0.18441361571502476, 'reg_lambda': 1.1669930603742968, 'reg_alpha': 0.6413803229980442, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 8
+Source file: Optuna_parameters_8.txt
+================================================================================
+
+Best parameters for 8: 
+{'n_estimators': 285, 'max_depth': 9, 'learning_rate': 0.18038528877594395, 'min_child_weight': 6, 'subsample': 0.888255568540547, 'colsample_bytree': 0.9168130565885758, 'gamma': 0.20160187789705794, 'reg_lambda': 0.7098128193949187, 'reg_alpha': 0.3020954745527928, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 9
+Source file: Optuna_parameters_9.txt
+================================================================================
+
+Best parameters for 9: 
+{'n_estimators': 77, 'max_depth': 3, 'learning_rate': 0.20361822350997824, 'min_child_weight': 1, 'subsample': 0.9756572162317566, 'colsample_bytree': 0.9377417018059236, 'gamma': 0.18053616470738532, 'reg_lambda': 1.2119736885011807, 'reg_alpha': 0.011706598868331988, 'objective': 'reg:squarederror', 'random_state': 42}
+
+================================================================================
+Random split 10
+Source file: Optuna_parameters_10.txt
+================================================================================
+
+Best parameters for 10: 
+{'n_estimators': 133, 'max_depth': 7, 'learning_rate': 0.17403062254115145, 'min_child_weight': 10, 'subsample': 0.7445266368455337, 'colsample_bytree': 0.8174192438762125, 'gamma': 0.028162100513660554, 'reg_lambda': 1.553970182695883, 'reg_alpha': 0.08549076566347519, 'objective': 'reg:squarederror', 'random_state': 42}
+

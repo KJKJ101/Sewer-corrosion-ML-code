@@ -1,0 +1,2 @@
+Best parameters for 9: 
+{'n_estimators': 77, 'max_depth': 3, 'learning_rate': 0.20361822350997824, 'min_child_weight': 1, 'subsample': 0.9756572162317566, 'colsample_bytree': 0.9377417018059236, 'gamma': 0.18053616470738532, 'reg_lambda': 1.2119736885011807, 'reg_alpha': 0.011706598868331988, 'objective': 'reg:squarederror', 'random_state': 42}

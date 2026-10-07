@@ -1,0 +1,2 @@
+Best parameters for 5: 
+{'n_estimators': 200, 'max_depth': 7, 'learning_rate': 0.15354110934206422, 'min_child_weight': 7, 'subsample': 0.7205260276408141, 'colsample_bytree': 0.952344361134657, 'gamma': 0, 'reg_lambda': 2, 'reg_alpha': 2, 'objective': 'reg:squarederror', 'random_state': 42}

@@ -1,0 +1,80 @@
+================================================================================
+Random split 1
+Source file: Optuna_parameters_1.txt
+================================================================================
+
+Best parameters for 1: 
+{'n_estimators': 55, 'learning_rate': 0.05727037404115196, 'max_depth': 10, 'min_samples_split': 18, 'min_samples_leaf': 1, 'subsample': 0.9912785790854126, 'max_features': 4, 'random_state': 42}
+
+================================================================================
+Random split 2
+Source file: Optuna_parameters_2.txt
+================================================================================
+
+Best parameters for 2: 
+{'n_estimators': 259, 'learning_rate': 0.07596280087959913, 'max_depth': 7, 'min_samples_split': 12, 'min_samples_leaf': 8, 'subsample': 0.6100657644652264, 'max_features': 4, 'random_state': 42}
+
+================================================================================
+Random split 3
+Source file: Optuna_parameters_3.txt
+================================================================================
+
+Best parameters for 3: 
+{'n_estimators': 123, 'learning_rate': 0.04939260380937699, 'max_depth': 10, 'min_samples_split': 16, 'min_samples_leaf': 1, 'subsample': 0.8480900735541261, 'max_features': 2, 'random_state': 42}
+
+================================================================================
+Random split 4
+Source file: Optuna_parameters_4.txt
+================================================================================
+
+Best parameters for 4: 
+{'n_estimators': 78, 'learning_rate': 0.033353864502537536, 'max_depth': 10, 'min_samples_split': 3, 'min_samples_leaf': 7, 'subsample': 0.9925912799518282, 'max_features': 3, 'random_state': 42}
+
+================================================================================
+Random split 5
+Source file: Optuna_parameters_5.txt
+================================================================================
+
+Best parameters for 5: 
+{'n_estimators': 231, 'learning_rate': 0.027457378362519273, 'max_depth': 4, 'min_samples_split': 19, 'min_samples_leaf': 2, 'subsample': 0.9998016252786142, 'max_features': 2, 'random_state': 42}
+
+================================================================================
+Random split 6
+Source file: Optuna_parameters_6.txt
+================================================================================
+
+Best parameters for 6: 
+{'n_estimators': 74, 'learning_rate': 0.048892427925489215, 'max_depth': 9, 'min_samples_split': 14, 'min_samples_leaf': 6, 'subsample': 0.8833504955115337, 'max_features': 4, 'random_state': 42}
+
+================================================================================
+Random split 7
+Source file: Optuna_parameters_7.txt
+================================================================================
+
+Best parameters for 7: 
+{'n_estimators': 136, 'learning_rate': 0.02756553023427443, 'max_depth': 7, 'min_samples_split': 17, 'min_samples_leaf': 4, 'subsample': 0.9796980705262209, 'max_features': 4, 'random_state': 42}
+
+================================================================================
+Random split 8
+Source file: Optuna_parameters_8.txt
+================================================================================
+
+Best parameters for 8: 
+{'n_estimators': 58, 'learning_rate': 0.06178478682923039, 'max_depth': 10, 'min_samples_split': 19, 'min_samples_leaf': 6, 'subsample': 0.8459404685014604, 'max_features': 3, 'random_state': 42}
+
+================================================================================
+Random split 9
+Source file: Optuna_parameters_9.txt
+================================================================================
+
+Best parameters for 9: 
+{'n_estimators': 274, 'learning_rate': 0.015503122218682074, 'max_depth': 5, 'min_samples_split': 6, 'min_samples_leaf': 10, 'subsample': 0.9999385192394004, 'max_features': 4, 'random_state': 42}
+
+================================================================================
+Random split 10
+Source file: Optuna_parameters_10.txt
+================================================================================
+
+Best parameters for 10: 
+{'n_estimators': 61, 'learning_rate': 0.04492683983212491, 'max_depth': 8, 'min_samples_split': 6, 'min_samples_leaf': 5, 'subsample': 0.9994859023424179, 'max_features': 4, 'random_state': 42}
+

@@ -1,0 +1,2 @@
+Best parameters for 10: 
+{'n_estimators': 61, 'learning_rate': 0.04492683983212491, 'max_depth': 8, 'min_samples_split': 6, 'min_samples_leaf': 5, 'subsample': 0.9994859023424179, 'max_features': 4, 'random_state': 42}

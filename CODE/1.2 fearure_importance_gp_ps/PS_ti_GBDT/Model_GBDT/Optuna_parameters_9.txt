@@ -1,0 +1,2 @@
+Best parameters for 9: 
+{'n_estimators': 274, 'learning_rate': 0.015503122218682074, 'max_depth': 5, 'min_samples_split': 6, 'min_samples_leaf': 10, 'subsample': 0.9999385192394004, 'max_features': 4, 'random_state': 42}

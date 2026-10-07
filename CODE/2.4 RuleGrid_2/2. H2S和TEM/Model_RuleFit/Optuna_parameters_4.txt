@@ -1,0 +1,2 @@
+Best parameters for 4: 
+{'n_estimators': 168, 'tree_size': 5, 'max_rules': 25, 'sample_fract': 0.5, 'random_state': 42}

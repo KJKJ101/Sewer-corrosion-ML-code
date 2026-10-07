@@ -1,0 +1,2 @@
+Best parameters for 7: 
+{'n_estimators': 480, 'tree_size': 6, 'max_rules': 25, 'sample_fract': 0.7, 'random_state': 42}

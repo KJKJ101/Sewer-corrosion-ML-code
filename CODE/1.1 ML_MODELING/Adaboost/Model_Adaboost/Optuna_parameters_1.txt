@@ -1,0 +1,2 @@
+Best parameters for 1: 
+{'n_estimators': 23, 'learning_rate': 0.030267415116122437, 'random_state': 42}

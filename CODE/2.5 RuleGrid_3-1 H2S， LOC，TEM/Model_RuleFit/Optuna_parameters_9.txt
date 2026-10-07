@@ -1,0 +1,2 @@
+Best parameters for 9: 
+{'n_estimators': 417, 'tree_size': 5, 'max_rules': 25, 'sample_fract': 0.3, 'random_state': 42}

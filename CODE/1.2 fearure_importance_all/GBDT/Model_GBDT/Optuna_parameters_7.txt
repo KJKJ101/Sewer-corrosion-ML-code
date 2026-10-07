@@ -1,0 +1,2 @@
+Best parameters for 7: 
+{'n_estimators': 136, 'learning_rate': 0.02756553023427443, 'max_depth': 7, 'min_samples_split': 17, 'min_samples_leaf': 4, 'subsample': 0.9796980705262209, 'max_features': 4, 'random_state': 42}
